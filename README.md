@@ -55,19 +55,18 @@ Wszystko renderowane jest interaktywnie po stronie serwera przy użyciu komponen
 Komponent zawierający logikę:
 - generowania prognozy i liczenia ciepłych dni
   ![image](https://github.com/user-attachments/assets/07cd52bf-49e6-4922-95b6-dc8f8cada779)
+  ![image](https://github.com/user-attachments/assets/68b55905-6f40-4b56-b9d1-8eafcfed7389)
 - filtrowania ciepłych dni i przywracania wszystkich prognóz
   ![image](https://github.com/user-attachments/assets/28fce9ff-ba5b-4f13-9cdb-c1bc238baefa)
+  ![image](https://github.com/user-attachments/assets/ad6a2e0e-5e1b-4879-8a1d-a8417c1f2f76)
 - dynamicznego filtrowania prognóz po opisie:
   ![image](https://github.com/user-attachments/assets/5eaa5a4b-9389-461e-9fc8-7aeeb126e20d)
+  ![image](https://github.com/user-attachments/assets/06d8eb6f-cca3-4b34-b887-ddc94222f3d3)
 
 **Program.cs**
 
 - Konfiguruje serwis Blazor Server i uwierzytelnianie certyfikatowe:
   ![image](https://github.com/user-attachments/assets/7594d1ee-dfec-42ef-8bf0-78d525efefe8)
   ![image](https://github.com/user-attachments/assets/3ae9be80-468c-4adb-b509-bc6515f35706)
-
-
-
-  
 
 ---
